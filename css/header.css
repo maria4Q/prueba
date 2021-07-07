@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+	font-family: 'Happy Monkey', cursive;
+	box-sizing: border-box;
+}
+header{
+    width: 100%;
+    height: 70px;
+	padding: 0px 50px;
+	background-color: #b18c9a;
+	font-size: 15px;
+ 
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+	align-items: center;
+	flex-wrap:nowrap;
+
+}
+.padre{
+    color: black;
+    text-decoration: none;    
+}
+.nav{
+    list-style: none;
+    width: 200px;
+    height: 25px;
+	
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+       
+}
+.hijo{
+    display: block;
+    list-style: none;
+	background-color: aqua;
+}
+.padre:hover hijo{
+    transition: 0.3s;
+    
+}

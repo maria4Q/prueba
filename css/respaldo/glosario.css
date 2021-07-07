@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.encabezado{
+    font-family: oblique bold;
+    text-align: center;
+	color: #D93B3B;
+	Font-size:60px;
+    font-family:fantasy;   
+    text-align: center;
+}
+header{
+    width: 100%;
+    height: 60px;
+    padding: 15px 50px 50px 50px;
+    box-sizing: border-box;
+	text-decoration: none;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #b18c9a;
+}
+.botones{
+	text-decoration: none;
+	color: black;
+}
+section{
+    width: 1000px;
+    margin: 30px auto;
+    box-sizing: border-box;
+}
+
+/*SECCIÓN 1*/
+.TITULO{
+    Font-size:60px;
+    font-family:fantasy;   
+    margin: 10px 0px 0px 0px;
+    text-align: center;
+
+/*SECCIÓN 2*/
+}
+p{
+	font-family: 'Happy Monkey', cursive;
+}
+.div1{
+	background-color: #1c1c24;
+	border: 1px solid black;
+	padding: 10px;
+	font-family: 'Happy Monkey', cursive;
+	color: white;
+	text-align: center;
+}
+.subtitulo{
+    Font-size:17px;
+    color:#182126;
+}
+.title_1{
+    margin: 10px 0px 10px 0px;
+    color: #166B8C;
+    list-style: none;
+    text-align: center;
+    Font-size:30px;
+	font-family: 'Homemade Apple', cursive; 
+}
+.titulo_2{
+    margin: 10px 0px 10px 0px;
+    color: #166B8C;
+    list-style: none;
+    text-align: center;
+    Font-size:30px;
+	font-family: 'Homemade Apple', cursive;
+}
+.titulo_3{
+    margin: 10px 0px 10px 0px;
+    color: #166B8C;
+    list-style: none;
+    text-align: center;
+    Font-size:30px;
+	font-family: 'Homemade Apple', cursive;
+}
+.titulo_4{
+    margin: 10px 0px 10px 0px;
+    color: #166B8C;
+    list-style: none;
+    text-align: center;
+    Font-size:30px;
+	font-family: 'Homemade Apple', cursive;
+}
+.div{
+	background-color: #D7DBDD;
+	padding: 0px 8px 0px 0px;
+	margin: 15px;
+}
+.tabla{
+    margin: 20px 20px 0px 100px;
+	padding: 25px 15px 10px 10px;
+	border-collapse: collapse;
+	background-color: gainsboro;
+	border: 1px solid black;
+    
+}
+.tabla1{
+    margin: 20px 20px 10px 100px;
+	padding: 25px 15px 10px 10px;
+	border-collapse: collapse;
+	background-color: gainsboro;
+	border: 1px solid black;
+    
+}
+.img_1{
+    width: 300px;
+}
+/*secton_texto*/
+section ul{
+    margin: 0px 0px 0px 15px;
+}
+.h2{
+    font-size: 1.3em;
+    margin-top: 1em;
+}
+.p{
+    font-size: 1.2em;
+}
+/*sublista*/
+.sub_lista{
+    margin: 10px 0px 0px 20px;
+}
+
+.sub_lista li{
+    margin: 10px 0px 0px 20px;
+}
+footer{
+    width: 100%;
+    height: 60px;
+    background-color: #C39BD3; 
+    text-align: center;
+    font-family: monospace;
+    color: black;
+    padding: 25px 0px 0px 0px; 	
+}
+.td1{
+	background-color: #413c52;
+	color: white;
+	padding: 8px;
+	font-family: 'Annie Use Your Telescope', cursive;
+	font-size: 15px;
+	object-position: 
+}
+.Div{
+	padding: 10px;
+}
+.ejemplo{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	
+}
+.div1:hover{
+	background-color: #5F6A6A;
+}
+.botones:hover{
+	background-color: gainsboro;
+}
+
+
+
+
